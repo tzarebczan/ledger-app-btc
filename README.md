@@ -1,8 +1,9 @@
 # Install LBRY
-## Build environment:
-https://ledger.readthedocs.io/en/0/nanos/setup.html
+## Install Ledger tool
+Make sure BTC app is installed (use ledger manager) before proceeding.
 
-Make sure BTC app is installed first (use ledger manager)
+Install python and pip. Then run:
+```pip install ledgerblue```
 
 ## Download app
 Hex download: https://github.com/tzarebczan/ledger-app-btc/releases/tag/lbry
