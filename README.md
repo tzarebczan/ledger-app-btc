@@ -23,4 +23,4 @@ If you have Electrum for BTC installed already, this will use the same directori
 Windows exe: https://github.com/tzarebczan/electrum/releases/tag/0.0.1
 or build from source
 
-Choose Legacy address type. Enable manual fees. 
+Choose Legacy address type. Enable manual fees, turn off fee estimation. Set fee to 50 sats/byte.
